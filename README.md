@@ -1,5 +1,4 @@
 <h1 align="center">Luara Meissner</h1>
-
 <p align="center">
   Projeto Final de Curso  
 </p>
@@ -11,7 +10,6 @@ Plataforma web interativa voltada à orientação acadêmica e profissional de e
 ---
 
 ## Tecnologias 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
