@@ -5,7 +5,7 @@
 
 ---
 
-Tema: Sistema de Apoio à Decisão para Escolha de Carreira em Tecnologia com Integração de Dados Educacionais e de Mercado de Trabalho
+### Tema: Sistema de Apoio à Decisão para Escolha de Carreira em Tecnologia com Integração de Dados Educacionais e de Mercado de Trabalho
 
 Plataforma web interativa voltada à orientação acadêmica e profissional de estudantes e ingressantes na área de Tecnologia da Informação. Utiliza as Diretrizes Curriculares Nacionais como base para recomendação de cursos de bacharelado e integra a API da OpenAI para realizar extração automatizada de requisitos e qualificações a partir de descrições de vagas do mercado de trabalho brasileiro. A plataforma também oferece feedback personalizado, gerado automaticamente com base no perfil de habilidades do usuário e na trajetória profissional desejada.
 
