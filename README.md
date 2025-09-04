@@ -1,7 +1,4 @@
-<h1 align="center">Luara Meissner</h1>
-<p align="center">
-  Projeto Final de Curso  
-</p>
+<h1 align="center">Projeto Final de Curso</h1>
 <p align="center">
   Sistemas de Informação - Universidade de Mogi das Cruzes  
 </p>
