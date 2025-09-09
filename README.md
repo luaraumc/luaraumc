@@ -3,7 +3,9 @@
   Sistemas de Informação - Universidade de Mogi das Cruzes  
 </p>
 <p align="center">
-  Desenvolvido por [@meissnerluara](https://github.com/meissnerluara) e [@ElisaMostafa](https://github.com/ElisaMostafa) 
+  Desenvolvido por:
+  - [@meissnerluara](https://github.com/meissnerluara) 
+  - [@ElisaMostafa](https://github.com/ElisaMostafa) 
 </p>
 
 ---
