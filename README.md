@@ -3,10 +3,6 @@
   Sistemas de Informação - Universidade de Mogi das Cruzes  
 </p>
 
-### Desenvolvido por:
-- [@meissnerluara](https://github.com/meissnerluara) 
-- [@ElisaMostafa](https://github.com/ElisaMostafa) 
-
 ---
 
 **Tema:** Sistema de Apoio à Decisão para Escolha de Carreira em Tecnologia com Integração de Dados Educacionais e de Mercado de Trabalho
@@ -24,3 +20,9 @@ Plataforma web interativa voltada à orientação acadêmica e profissional de e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+
+---
+
+### Desenvolvido por:
+- [@meissnerluara](https://github.com/meissnerluara) 
+- [@ElisaMostafa](https://github.com/ElisaMostafa) 
