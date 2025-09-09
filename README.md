@@ -3,7 +3,7 @@
   Sistemas de Informação - Universidade de Mogi das Cruzes  
 </p>
 <p align="center">
-  Desenvolvido por [@luaraumc](https://github.com/luaraumc) e [@ElisaAndradeMostafa](https://github.com/ElisaAndradeMostafa)  
+  Desenvolvido por [@meissnerluara](https://github.com/meissnerluara) e [@ElisaMostafa](https://github.com/ElisaMostafa) 
 </p>
 
 ---
@@ -23,9 +23,3 @@ Plataforma web interativa voltada à orientação acadêmica e profissional de e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-
----
-
-### Perfis GitHub Pessoais das Desenvolvedoras
-- [@meissnerluara](https://github.com/meissnerluara) 
-- [@ElisaMostafa](https://github.com/ElisaMostafa) 
